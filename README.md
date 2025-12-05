@@ -1,40 +1,48 @@
-<h1 align="center">🌸 Привет! Я <Your Name> 🌸</h1>
+<h1 align="center">b1a4c</h1>
+<p align="center">Backend • Automation • DevOps • Engineering</p>
+
+---
+
+### 👨‍💻 О себе
+- Пишу код, который работает стабильно и предсказуемо  
+- Предпочитаю минимализм, скорость и структурированный подход  
+- Интересуюсь: backend-архитектуры, безопасность, высоконагруженные системы  
+- Учусь: оптимизация, контейнеризация, CI/CD  
+
+---
+
+### 🛠 Технологии & инструменты
+
+**Языки:**  
+`Python` · `JavaScript` · `Bash`
+
+**Backend:**  
+`FastAPI` · `PostgreSQL` · `Redis`
+
+**DevOps:**  
+`Docker` · `Docker Compose` · `Linux`  
+
+**Инструменты:**  
+`Git` · `VS Code` · `REST APIs` · `OpenAPI`
+
+---
+
+### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://i.imgur.com/Z7AzH2h.gif" width="200" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=b1a4c&show_icons=true&theme=github_dark&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1a4c&layout=compact&theme=github_dark)
+
 </div>
 
 ---
 
-### 👩‍💻 Обо мне
-- 🎨 Люблю аниме-эстетику и красивый код  
-- 💻 Разрабатываю на: **JavaScript / TypeScript / Python**  
-- 🚀 Интересы: frontend, backend, AI, дизайн  
-- 🌱 Сейчас учу: **React / Next.js / Neural Networks**  
+### 📂 Проекты
+
 
 ---
 
-### 🛠️ Технологии
-<div align="center">
+### 📫 Контакты
 
-| Frontend | Backend | Tools |
-|---------|---------|--------|
-| Vue, React, HTML, CSS | Node.js, Python, FastAPI | Git, Docker, Linux |
-
-</div>
-
----
-
-### 📊 GitHub статистика
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-### 🎀 Мини-баннер
 
