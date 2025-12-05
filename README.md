@@ -1,5 +1,5 @@
 <h1 align="center">b1a4c</h1>
-<p align="center">Backend • Automation • DevOps • Engineering</p>
+<p align="center">Backend </p>
 
 ---
 
